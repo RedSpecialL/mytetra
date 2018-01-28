@@ -14,9 +14,27 @@
    <node crypt="" id="1516786972zehx917f4x" name="Comedy">
     <node crypt="" id="1516787983eloro6omw3" name="Black Books"/>
     <node crypt="" id="1516788049qom345huse" name="Dara Ó Briain"/>
-    <node crypt="" id="15167880580b6er7k054" name="Dylan Moran"/>
+    <node crypt="" id="15167880580b6er7k054" name="Dylan Moran">
+     <recordtable>
+      <record id="1516979940ppa3evoudh" name="About Dylan Moran" author="" url="https://en.wikipedia.org/wiki/Dylan_Moran" tags="dylan moran, comedy" ctime="20180126171900" dir="1516979940bd33hm8xrc" file="text.html"/>
+      <record id="1516980741o1ai0tguoc" name="Monster - Live" author="" url="https://rutracker.org/forum/viewtopic.php?t=3281887" tags="dylan moran, monster, stand-up, stand-up comedy, comedy, sub, rus sub" ctime="20180126173221" dir="15169807414292qyaf00" file="text.html"/>
+      <record id="1516982173zkh6movba0" name="Like, Totally... Dylan Moran Live" author="" url="https://rutracker.org/forum/viewtopic.php?t=1990067" tags="dylan moran, monster, stand-up, stand-up comedy, comedy, sub, rus sub" ctime="20180126175613" dir="1516982173exp5l1dg2t" file="text.html"/>
+      <record id="1516982862wfoqts62rr" name="What It Is" author="" url="https://rutracker.org/forum/viewtopic.php?t=2621226" tags="dylan moran, monster, stand-up, stand-up comedy, comedy, sub, rus sub" ctime="20180126180742" dir="1516982862qpqn0rqjnp" file="text.html"/>
+      <record id="1516983029dyggeg6aoi" name="Yeah, Yeah" author="" url="https://rutracker.org/forum/viewtopic.php?t=3830655" tags="dylan moran, monster, stand-up, stand-up comedy, comedy, sub, rus sub" ctime="20180126181029" dir="1516983029mcah6g1rc3" file="text.html"/>
+      <record id="15169832038d6y1594rk" name="Off The Hook" author="" url="https://rutracker.org/forum/viewtopic.php?t=5156102" tags="dylan moran, monster, stand-up, stand-up comedy, comedy, sub, rus sub" ctime="20180126181323" dir="1516983203iuzbezpbwk" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="1516788215y2yzg9pfpd" name="Jimmy Carr"/>
-    <node crypt="" id="1516788221xb85d9k6q5" name="QI"/>
+    <node crypt="" id="1516788221xb85d9k6q5" name="QI">
+     <recordtable>
+      <record id="15169703499nlp7ozo40" name="About QI" author="" url="https://en.wikipedia.org/wiki/QI" tags="qi, comedy" ctime="20180126143909" dir="151697034918764m9fgn" file="text.html"/>
+      <record id="1516975850ng4km8sljs" name="QI Season 01 (A)" author="" url="http://kinozal.tv/details.php?id=1362562" tags="qi, comedy, sub, rus sub" ctime="20180126161050" dir="1516975850zb0o4onpds" file="text.html"/>
+      <record id="1516976149s2fqpnb53n" name="QI Season 02 (B)" author="" url="http://kinozal.tv/details.php?id=1362702" tags="qi, comedy, sub, rus sub" ctime="20180126161549" dir="15169761495upik5fz00" file="text.html"/>
+      <record id="1516976456w9g6hq1yjo" name="QI Season 03 (C)" author="" url="http://kinozal.tv/details.php?id=1367119" tags="qi, comedy, sub, rus sub" ctime="20180126162056" dir="15169764560ihq5n5e1n" file="text.html"/>
+      <record id="1516976702fwadayyb2e" name="QI Season 04 (D)" author="" url="http://kinozal.tv/details.php?id=1368198" tags="qi, comedy, sub, rus sub" ctime="20180126162502" dir="1516976702vdkofvh15v" file="text.html"/>
+      <record id="1516977215pf4zqugylc" name="QI Season 05 (E)" author="" url="http://kinozal.tv/details.php?id=1369938" tags="qi, comedy, sub, rus sub" ctime="20180126163335" dir="1516977215ih361x15u3" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="15167882312b1eybawbb" name="Richard Herring"/>
     <node crypt="" id="1516788243c4czsbrn59" name="Tim Minchin">
      <recordtable>
