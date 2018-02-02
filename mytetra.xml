@@ -52,5 +52,10 @@
    <node crypt="" id="1516787024v228kemknz" name="Tutorials and learning stuff"/>
   </node>
   <node crypt="" id="15167353417smh4h6sp2" name="Math"/>
+  <node crypt="" id="1517574881zoffj4p0bn" name="Links">
+   <recordtable>
+    <record id="1517575046ro3buubodk" name="tmp habr links" author="" url="" tags="" ctime="20180202143726" dir="1517575046n0qphozms6" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
