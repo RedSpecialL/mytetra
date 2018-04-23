@@ -8,7 +8,16 @@
    <node crypt="" id="1516735302uf5eevb6aa" name="Linux"/>
   </node>
   <node crypt="" id="1516658810f68wmt4sav" name="Solr"/>
-  <node crypt="" id="1516735406vplc81fl3o" name="Programming"/>
+  <node crypt="" id="1516735406vplc81fl3o" name="Programming">
+   <node crypt="" id="1524469974f76op12gb9" name="Windows">
+    <node crypt="" id="1524469995z9yp2wsxoq" name="WinApi">
+     <recordtable>
+      <record id="15191223089wjlhu9nvo" name="Как проверить запущено ли приложение. How to check is process running." author="" url="" tags="winapi, c++" ctime="20180423105315" dir="1519122308m0bfkbbq3p" file="text.html"/>
+      <record id="15191224265t1dg387l3" name="Запуск процесса от имени юзера из под сервиса. How to run procces as user from service." author="" url="" tags="winapi, c++" ctime="20180423105315" dir="1519122426k7is1ozxuy" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
   <node crypt="" id="15166592587i74ah2p6k" name="MyFiles">
    <node crypt="" id="1516749454q9y8l1ltm1" name="Books"/>
    <node crypt="" id="1516786972zehx917f4x" name="Comedy">
@@ -57,6 +66,7 @@
     <record id="1517575046ro3buubodk" name="tmp links" author="" url="" tags="" ctime="20180202143726" dir="1517575046n0qphozms6" file="text.html"/>
     <record id="1517833109gdxspep3ag" name="dyploma links" author="" url="" tags="" ctime="20180205141829" dir="1517833109yfny91gjqp" file="text.html"/>
     <record id="15181087980k0h762mn0" name="tmp links more" author="" url="" tags="" ctime="20180208185318" dir="1518108798degytfmh5b" file="text.html"/>
+    <record id="1518434763yf8ku9fsmd" name="ai battle?" author="" url="https://ctf.pragyan.org" tags="" ctime="20180212132603" dir="1518434763fz08welk0o" file="text.html"/>
    </recordtable>
   </node>
  </content>
